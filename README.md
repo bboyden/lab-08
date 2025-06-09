@@ -1,1 +1,2 @@
 # lab-08
+This lab was actually very difficult for me. I built a Node.js and Express server that fetched fake photo data from JSONPlaceholder. I learned how to use fetch() with promises and .then chaining, and got back the first 20 photo objects. Then, I even used AI to help me make a little frontend to show the photo titles. It was very confusing though because it’s not real photos but it was real coding but difficult to tell if I was doing everything right.
